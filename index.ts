@@ -8,31 +8,37 @@ const browser = await puppeteer.launch({
 });
 const browserPage = await browser.newPage();
 
+// Lista de arcillas
 await browserPage.goto("https://www.marphil.com/tienda/arcillas/", {
   timeout: 0,
 });
 
-const links = await browserPage.evaluate(async () => {
+// Links hacia los detalles, con esto podemos ir a cada detalle y obtener los datos requeridos
+const productsLinks = await browserPage.evaluate(async () => {
   const pageItems = await document.querySelectorAll(
-    ".jet-filters-pagination__item"
+    ".jet-filters-pagination__item" // Paginacion
   );
   const pages = [];
 
   for (const pageItem of pageItems) {
+    // Extraer el "data-value" del elemento
     const val = (pageItem as any).dataset.value;
+
+    // Identificar cantidad de paginas, omitir botones "siguiente" y "anterior"
     if (Number.isInteger(Number.parseInt(val))) pages.push(val);
   }
   console.log(pages);
 
   const itemsRes: string[] = [];
   for (const pageCount of pages) {
+    // Los elementos de paginado anteriores YA NO EXISTEN, asi que buscar nuevo boton de siguiente pag en cada iteracion
     await (
       document.querySelector(
         `.jet-filters-pagination__item[data-value="${pageCount}"]`
       ) as any
     ).click();
 
-    // TIMEOUT REQUERIDO PORQUE NO ES CAMBIO DE PAGINA, TODO SE ACTUALIZA EN SCRIPT
+    // TIMEOUT REQUERIDO PORQUE NO ES CAMBIO DE PAGINA, TODO SE ACTUALIZA EN SCRIPT, mi internet lento :/
     await new Promise((resolve) =>
       setTimeout(() => {
         console.log("TIMEOUT: ", pageCount);
@@ -40,6 +46,7 @@ const links = await browserPage.evaluate(async () => {
       }, 60_000)
     );
 
+    // Buscar todos los items del listado, y obtener sus enlaces al detalle
     let items = await document.querySelectorAll(
       "div.jet-listing-grid__item h6 a"
     );
@@ -55,4 +62,4 @@ const links = await browserPage.evaluate(async () => {
 });
 
 console.log(browserPage);
-console.log(links);
+console.log(productsLinks);
