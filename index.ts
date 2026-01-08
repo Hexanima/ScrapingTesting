@@ -1,5 +1,7 @@
 import puppeteer from "puppeteer";
 
+const TIMEOUT = 60_000
+
 const browser = await puppeteer.launch({
   headless: false,
   slowMo: 200,
@@ -43,7 +45,7 @@ const productsLinks = await browserPage.evaluate(async () => {
       setTimeout(() => {
         console.log("TIMEOUT: ", pageCount);
         resolve(void 0);
-      }, 60_000)
+      }, TIMEOUT)
     );
 
     // Buscar todos los items del listado, y obtener sus enlaces al detalle
@@ -63,3 +65,7 @@ const productsLinks = await browserPage.evaluate(async () => {
 
 console.log(browserPage);
 console.log(productsLinks);
+
+for (const productLink of productsLinks.items) {
+  await browserPage.goto(productLink);
+}
