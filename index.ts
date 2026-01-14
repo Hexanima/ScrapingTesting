@@ -1,6 +1,7 @@
 import puppeteer from "puppeteer";
 import { ListProducts } from "./list-items.ts";
 import { LIST_CHANGE_TIMEOUT } from "./environment.ts";
+import { GenerateCSV } from "./generate-csv.ts";
 
 const browser = await puppeteer.launch({
   headless: false,
@@ -10,7 +11,7 @@ const browser = await puppeteer.launch({
 });
 const browserPage = await browser.newPage();
 
-const productsLinks = await ListProducts(
+const { items: covers } = await ListProducts(
   {
     browserPage,
     timeout: LIST_CHANGE_TIMEOUT,
@@ -18,9 +19,27 @@ const productsLinks = await ListProducts(
   { page: "colores" }
 );
 
-console.log(browserPage);
-console.log(productsLinks);
+const { items: clays } = await ListProducts(
+  {
+    browserPage,
+    timeout: LIST_CHANGE_TIMEOUT,
+  },
+  { page: "arcillas" }
+);
+const coversData = covers.map((url) => ({ url }));
+await GenerateCSV({
+  headers: [{ key: "url", title: "URL" }],
+  items: coversData,
+  relativePath: "./covers.csv",
+});
+console.log("Archivo covers.csv creado exitosamente");
 
-for (const productLink of productsLinks.items) {
-  await browserPage.goto(productLink);
-}
+const claysData = clays.map((url) => ({ url }));
+console.log("Archivo clays.csv creado exitosamente");
+await GenerateCSV({
+  relativePath: "./clays.csv",
+  headers: [{ key: "url", title: "URL" }],
+  items: claysData,
+});
+
+await browser.close();
