@@ -36,7 +36,7 @@ await GenerateCSV({
     ...clay,
     temperature: `${clay.temperature.min}-${clay.temperature.max}`,
   })),
-}); 
+});
 
 const { items: covers } = await ListProducts(
   {
@@ -55,11 +55,18 @@ await GenerateCSV({
     { key: "color", title: "Color" },
     { key: "temperature", title: "Temperatura (°C)" },
     { key: "type", title: "Tipo" },
+    { key: "ingredients", title: "Ingredientes" },
     { key: "description", title: "Descripción" },
   ],
   items: coversData.map((cover) => ({
     ...cover,
     temperature: `${cover.temperature.min}-${cover.temperature.max}`,
+    ingredients: cover.ingredients
+      .map(
+        (ingredient): string =>
+          `${ingredient.mineral} ${ingredient.percentage}`,
+      )
+      .join(";"),
   })),
   relativePath: "./covers.csv",
 });
