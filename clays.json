@@ -1,0 +1,816 @@
+[
+  {
+    "name": "Arcilla Refractaria Teide (PRGF) *5Kg",
+    "description": "La Arcilla Refractaria Teide 5 Kg (*PRGF) es la pasta conocida como Refractario Marrón chamotado fino, pero en este caso en formato de 5 Kg. Chamota de 0-0,5 que resulta apta también para torno.\nUna muy buena idea del fabricante para poder probar distintas pastas o bien realizar un trabajo puntual.\nPasta de gres para escultura y modelado. Plasticidad excelente.\nLa arcilla TEIDE es ideal para modelar piezas con carácter (textura rugosa) o de gran tamaño. Contiene un 40% de chamota 0-0.5 mm, que le proporciona un comportamiento excepcional durante el secado y la cocción. Es perfecta para hobby cerámico pues posee un amplio rango de cocción desde 1000ºC a 1300ºC, desarrollando una particular gama de colores que van del lila al marrón tostado, con destonificaciones que realzan el relieve y la convierten en un medio de expresión artístico ideal. Por su excepcional plasticidad, es especialmente adecuada para modelado y escultura.",
+    "color": "marrón",
+    "temperature": {
+      "min_temperature": 980,
+      "max_temperature": 1000,
+      "label": "Cono 9"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "WB 01766-T GRES POLVO 5kg.",
+    "description": "Pasta clásica de gres blanco. Se presenta en polvo para colaje. Muy utilizada como engobe de alta Temperatura. Dureza: (en polvo). Rango cocción: 1000ºC-1250ºC. Presentación: sacos 5 kg",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 980,
+      "max_temperature": 1000,
+      "label": "Cono 9"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Art-13 Gres POLVO Saco 25 Kg",
+    "description": "El gres en polvo ART-13 es una arcilla atomizada con defloculantes incorporados. Preparada para adicionar agua y trabajar la técnica de colada para la réplica de piezas en molde. Tras un primer bizcochado en torno a 1.000ºC, coceremos en un rango recomendado entre 1240 y 1280ºC.\nLa proporción standard, sujeta a modificaciones por características de la pieza, ambientales, etc, es de 10 kg polvo por 4 de agua, en peso.\nContracción de secado:  4 – 5 %\nPérdida al fuego:   5,5 – 6%\nFICHA TÉCNICA",
+    "color": "gris",
+    "temperature": {
+      "min_temperature": 1220,
+      "max_temperature": 1240,
+      "label": "Cono 3"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Porcelana líquida ANETO SLIP 3.5 l.",
+    "description": "ANETO SLIP es una porcelana blanca traslúcida en barbotina para colaje. Su fórmula es muy estable y permite un rango de cocción seguro entre 1230 y 1270ºC. Apto para vajilla (food-safe), según ISO 6486.\nSe presenta en un práctico bidón de 3,5 litros (6 kg) con tapón de rosca con precinto de seguridad y sello termosellado hermético.\nTemperatura de cocción*: 1230-1270ºC\nTemperatura bizcocho: 1000ºC\nDensidad: 1.7 g/cm3\nContracción cocción 1250ºC: 11.2%\nPorosidad (absorción de agua) 1250ºC: 0.0%\n(*) Rango de cocción recomendado para que la pasta desarrolle sus mejores prestaciones, tanto a nivel de características técnicas como de seguridad, en condiciones de cocción convencionales. Las muestras de color pueden mostrar temperaturas fuera del rango recomendado para brindar una visión más amplia, pero se trata de piezas cocidas en condiciones controladas.",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 1220,
+      "max_temperature": 1240,
+      "label": "Cono 3"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Gres Verde Esmeralda 1080ºC 5 Kg. Media temperatura",
+    "description": "GRES VERDE ESMERALDA SG60\nGres de media temperatura con alta resistencia al choque mecánico.\nPasta extrusionada de bajo coste energético .\nAdecuada tanto para torno como para modelado.\nRecomendada para cerámica de uso decorativo y utilitario.\nSe puede introducir en lavavajillas y microondas.\nTemperatura de cocción recomendada 1080º-1100ºC\nFormato:\nPastilla de 5 Kg.",
+    "color": "verde esmeralda",
+    "temperature": {
+      "min_temperature": 1060,
+      "max_temperature": 1080,
+      "label": "Cono 7"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Arcilla Blanca EUROPA en POLVO",
+    "description": "Arcilla Blanca (denominada comercialmente EUROPA) lista para mezclar con agua y verter en los moldes de escayola para realizar réplicas por colado.\nSe suministra en 5 kg. y saco de 25 kg de arcilla en polvo con defloculantes incorporados.\n**Recordatorio: toda arcilla blanca es conveniente bizcocharla a 1.000º al menos (1050 sin problema), para que la cal quede liberada y no dé problemas de esmaltado posteriormente.\nFICHA TÉCNICA",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 980,
+      "max_temperature": 1000,
+      "label": "Cono 9"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Arcilla roja 5 Kg. SIO2",
+    "description": "SIO-2® ARGILA es arcilla de composición 100% natural (arcilla de alfarero). Fácil y agradable de trabajar. Ideal para el modelado, la escultura y el torneado. Apta para uso infantil. Es un material didáctico muy adecuado en el desarrollo de la creatividad. Recomendada para manualidades y artes creativas, así como para otras muchas aplicaciones en las que se requiera una arcilla natural.\nEs una arcilla muy pura y finamente molida. Presenta una plasticidad excelente para obtener el mejor rendimiento durante el modelado, secado y cocción.\nUna vez realizada la pieza deseada, se deja secar al aire. Una vez seca, se recomienda cocer en horno cerámico (entre 970 y 1050ºC) y decorar con esmaltes cerámicos.\nConforme a la normativa europea EN-71 y a la normativa USA (sello AP producto no tóxico).\nNo contiene alérgenos alimentarios.\n5 Kg.",
+    "color": "rojo",
+    "temperature": {
+      "min_temperature": 950,
+      "max_temperature": 970,
+      "label": "Cono 10"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Gres Azul 1080ºC 5 Kg. Media temperatura",
+    "description": "GRES AZUL SG60\nGres de media temperatura con alta resistencia al choque mecánico.\nPasta extrusionada de bajo coste energético .\nAdecuada tanto para torno como para modelado.\nRecomendada para cerámica de uso decorativo y utilitario.\nSe puede introducir en lavavajillas y microondas.\nTemperatura de cocción recomendada 1080º-1100ºC\nFormato:\nPastilla de 5 Kg.",
+    "color": "azul",
+    "temperature": {
+      "min_temperature": 1060,
+      "max_temperature": 1080,
+      "label": "Cono 7"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Gres Maquillaje 1080ºC 5 Kg. Media temperatura",
+    "description": "GRES COLOR MAQUILLAJE SG60\nGres de media temperatura con alta resistencia al choque mecánico.\nPasta extrusionada de bajo coste energético .\nAdecuada tanto para torno como para modelado.\nRecomendada para cerámica de uso decorativo y utilitario.\nSe puede introducir en lavavajillas y microondas.\nTemperatura de cocción recomendada 1080º-1100ºC\nFormato:\nPastilla de 5 Kg.",
+    "color": "beige",
+    "temperature": {
+      "min_temperature": 1060,
+      "max_temperature": 1080,
+      "label": "Cono 7"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Gres Negro 1080ºC 5 Kg. Media temperatura",
+    "description": "GRES NEGRO SG60\nGres de media temperatura con alta resistencia al choque mecánico.\nPasta extrusionada de bajo coste energético .\nAdecuada tanto para torno como para modelado.\nRecomendada para cerámica de uso decorativo y utilitario.\nSe puede introducir en lavavajillas y microondas.\nTemperatura de cocción recomendada 1080º-1100ºC\nFormato:\nPastilla de 5 Kg.",
+    "color": "negro",
+    "temperature": {
+      "min_temperature": 1060,
+      "max_temperature": 1080,
+      "label": "Cono 7"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Gres Ocre 1080ºC 5 Kg. Media temperatura",
+    "description": "GRES OCRE SG60\nGres de media temperatura con alta resistencia al choque mecánico.\nPasta extrusionada de bajo coste energético .\nAdecuada tanto para torno como para modelado.\nRecomendada para cerámica de uso decorativo y utilitario.\nSe puede introducir en lavavajillas y microondas.\nTemperatura de cocción recomendada 1080º-1100ºC\nFormato:\nPastilla de 5 Kg.",
+    "color": "ocre",
+    "temperature": {
+      "min_temperature": 1060,
+      "max_temperature": 1080,
+      "label": "Cono 7"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Gres Rojo 1080ºC 5 Kg. Media temperatura",
+    "description": "GRES ROJO SG60\nGres de media temperatura con alta resistencia al choque mecánico.\nPasta extrusionada de bajo coste energético .\nAdecuada tanto para torno como para modelado.\nRecomendada para cerámica de uso decorativo y utilitario.\nSe puede introducir en lavavajillas y microondas.\nTemperatura de cocción recomendada 1080º-1100ºC\nFormato:\nPastilla de 5 Kg.",
+    "color": "rojo",
+    "temperature": {
+      "min_temperature": 1060,
+      "max_temperature": 1080,
+      "label": "Cono 7"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Gres con Chamota negra WM 3020 FS 10 Kg.",
+    "description": "Gres de la firma alemana Sibelco.\nFormato de venta 10 Kg.\nTemperatura recomendada 1220 a 1250ºC.\n**Chamota gruesa: no recomendada para torno y sí para procesos escultóricos.",
+    "color": "negro",
+    "temperature": {
+      "min_temperature": 1220,
+      "max_temperature": 1240,
+      "label": "Cono 3"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Gres Moteado WMS-2502 10 kg",
+    "description": "Gres Crema Moteado WMS-2502 de la firma Sibelco.\nTemperatura 1100ºC-1280ºC.\nTiene chamota impalpable, siendo recomendable tanto para torno como para modelado.\nSe suministra en formato de 10 Kg.\nMuy demandado para originales creaciones ornamentales y vajillería.",
+    "color": "crema",
+    "temperature": {
+      "min_temperature": 1100,
+      "max_temperature": 1120,
+      "label": "Cono 6"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Gres moteado Luna 12,5 Kg",
+    "description": "Pasta de gres moteado con chamota impalpable 0-0.2 mm. Diseñada para cerámica artística, contiene minerales fundentes que desarrollan una seductora superficie con puntos oscuros de distintos tamaños y tonalidades que destacan en una matriz de color blanco marfil. Su elevado contenido en chamota le proporciona un excelente comportamiento durante el secado y la cocción. La decoración con esmaltes transparentes es ideal para realzar la viveza del efecto moteado. Disponible en pasta plástica extrusionada.\nRecomendación importante:\nLa viveza del moteado de la pasta LUNA se origina gracias a minerales naturales que pueden incluir trazas de otros minerales que pueden rehidratarse tras la cocción a baja temperatura y producir desconches. Para evitarlo, se recomienda cocer el bizcocho a mayor temperatura (1050-1080ºC). Si se trabaja directamente en monococción, el problema no existe, o bien esmaltando a continuación del bizcochado, sin dejar pasar tiempo en el que la pieza coja humedad.\nTemperatura de cocción: 1200-1260ºC\nTemperatura bizcocho: 1000ºC\nHumedad: 19%\nContracción secado: 5.8%\nContracción cocción 1260ºC: 5.3%\nFormato: envase de 12.5 Kg.",
+    "color": "blanco marfil",
+    "temperature": {
+      "min_temperature": 1180,
+      "max_temperature": 1200,
+      "label": "Cono 4"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Porcelana POLVO Blanca SA 25 Kg.",
+    "description": "La Porcelana en polvo Blanca SA está elaborada para la preparación de barbotina destinada a la realización de piezas por colada. Disponible en sacos de 25 Kg.\nPara la preparación de la barbotina sólo hay que añadir el agua, ya que contiene el defloculante para la mezcla.\nColor blanco. Temperatura de cocción de 1260-1280ºC.\nEspecífica para la fabricación de vajillas y piezas de cerámica decorativa.\nPara las arcillas de colada establecemos una proporción general de 10 partes de polvo x 4 de agua, en peso, si bien podemos modificar esta medida en función de las necesidades concretas.\nFICHA TÉCNICA",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 1240,
+      "max_temperature": 1260,
+      "label": "Cono 1"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Porcelana KPCL PT010B 20 Kg",
+    "description": "La porcelana KPCL PT010B de Limoges (translúcida) es una pasta extrusionada para torno y modelado. Para cerámica artística, decorativa y vajilla.\nDureza: torno\nTemperatura recomendada en oxidación 1230ºC y en reducción 1270ºC.\nTemperatura del bizcocho 950º-980ºC en oxidación.\nSe presenta en bolsa de 20 Kg (dividida en 2 bloques de 10 Kg cada uno).",
+    "color": "translúcido",
+    "temperature": {
+      "min_temperature": 950,
+      "max_temperature": 970,
+      "label": "Cono 10"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Arcilla blanca 5 Kg. SIO2",
+    "description": "SIO-2® ARGILA es arcilla de composición 100% natural (arcilla de alfarero). Fácil y agradable de trabajar. Ideal para el modelado, la escultura y el torneado. Apta para uso infantil. Es un material didáctico muy adecuado en el desarrollo de la creatividad. Recomendada para manualidades y artes creativas, así como para otras muchas aplicaciones en las que se requiera una arcilla natural.\nEs una arcilla muy pura y finamente molida. Presenta una plasticidad excelente para obtener el mejor rendimiento durante el modelado, secado y cocción.\nUna vez realizada la pieza deseada, se deja secar al aire. Una vez seca, se recomienda cocer en horno cerámico (entre 970 y 1050ºC) y decorar con esmaltes cerámicos.\nConforme a la normativa europea EN-71 y a la normativa USA (sello AP producto no tóxico).\nNo contiene alérgenos alimentarios.",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 950,
+      "max_temperature": 970,
+      "label": "Cono 10"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Kit de cerámica SIO-2 POTTERY KIT",
+    "description": "Abre las puertas de la creatividad con el completo kit de cerámica SIO-2. Incluye todo lo que necesitas para modelar y crear piezas únicas de cerámica en la comodidad desde tu hogar. Tanto si eres un principiante o un artista experimentado, este kit es el lienzo para dar rienda suelta a tu imaginación y crear tus primeras obras de cerámica.\nContenido del kit:\n– 1 kg de arcilla blanca SIO-2 PLUS®: arcilla de alta calidad que endurece al aire, sin necesidad de horno, lo que la hace perfecta para crear proyectos en casa.\n– Rodillo: para alisar y dar forma a la arcilla de manera uniforme.\n– 2 palillos de madera: esenciales para modelar y detallar tus creaciones.\n– Vaciador de madera: para tallar, suavizar y detallar con precisión.\n– Media luna de madera: ideal para cortar y suavizar las pequeñas imperfecciones.\n– Esponja: para suavizar y pulir los detalles.\n– Barniz: protege y realza tus creaciones, dándoles un acabado profesional.\n– Pincel: para aplicar el barniz.\nEl kit de cerámica SIO-2 te ofrece la oportunidad de explorar tu creatividad al máximo. Además de los materiales y herramientas de alta calidad, incluye un dossier detallado con tres técnicas esenciales e ideas para modelar cerámica. ¡No importa si eres principiante o experto, este kit es adecuado para todos los públicos! Perfecto para regalar o para disfrutar en tus momentos de tiempo libre.\nDescubre cómo crear hermosas piezas de cerámica utilizando solo los elementos proporcionados en el kit, sin necesidad de nada más. ¡Sin límites para tu imaginación!",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 20,
+      "max_temperature": 30,
+      "label": "Rango 20-30°C"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Arcilla Plus Gris 1 Kg.",
+    "description": "SIO-2 PLUS® es la arcilla natural para modelar que endurece al aire sin necesidad de cocción, adquiriendo gran dureza, resistencia y solidez.\nEs un material muy adecuado en el desarrollo de la capacidad de creación y expresión plástica. Muy recomendado para manualidades y artes creativas profesionales, pero, a la vez, apto para uso infantil (a partir de 3 años).\nLa arcilla PLUS tiene una textura suave y fina al tacto y ausencia de olor. Ideal para modelar realizando detalles muy finos. Su composición arcillosa le confiere una plasticidad excelente para el modelado (se puede tornear en torno de alfarero) y la presencia de fibras naturales de celulosa permiten un secado seguro sin grietas ni fisuras, aún con piezas grandes.\nUna vez seca, puede colorearse o barnizarse con cualquier tipo de pintura o barniz. También puede pulirse, tallarse o perforarse.\nEste color gris lo tenemos en formato de 1 Kg.\nConforme a la normativa europea EN-71 y a la normativa USA (sello AP producto no tóxico).\nNo contiene alérgenos alimentarios.",
+    "color": "gris",
+    "temperature": {
+      "min_temperature": 20,
+      "max_temperature": 25,
+      "label": "Rango 20-25°C"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Arcilla Plus Negro 1 Kg.",
+    "description": "SIO-2 PLUS® es la arcilla natural para modelar que endurece al aire sin necesidad de cocción, adquiriendo gran dureza, resistencia y solidez.\nEs un material muy adecuado en el desarrollo de la capacidad de creación y expresión plástica. Muy recomendado para manualidades y artes creativas profesionales, pero, a la vez, apto para uso infantil (a partir de 3 años).\nLa arcilla PLUS tiene una textura suave y fina al tacto y ausencia de olor. Ideal para modelar realizando detalles muy finos. Su composición arcillosa le confiere una plasticidad excelente para el modelado (se puede tornear en torno de alfarero) y la presencia de fibras naturales de celulosa permiten un secado seguro sin grietas ni fisuras, aún con piezas grandes.\nUna vez seca, puede colorearse o barnizarse con cualquier tipo de pintura o barniz. También puede pulirse, tallarse o perforarse.\nEste color negro lo tenemos en formato de 1 Kg.\nConforme a la normativa europea EN-71 y a la normativa USA (sello AP producto no tóxico).\nNo contiene alérgenos alimentarios.",
+    "color": "negro",
+    "temperature": {
+      "min_temperature": 20,
+      "max_temperature": 25,
+      "label": "Rango 20-25°C"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Pasta Sin Cocción PLUS 1.5 Kg",
+    "description": "SIO-2 PLUS® es arcilla natural para modelar que endurece al aire sin necesidad de cocción, adquiriendo gran dureza, resistencia y solidez. Es un material muy adecuado en el desarrollo de la capacidad de creación y expresión plástica. Muy recomendado para manualidades y artes creativas profesionales, así como para uso infantil.\nLa arcilla SIO-2 PLUS® tiene una textura suave, agradable y fina al tacto. Su composición de arcilla le confiere una excelente plasticidad para modelar realizando detalles muy finos. También se puede tornear en torno de alfarero. Inodora y no mancha. Los restos de arcilla se pueden quitar fácilmente de cualquier superficie con un paño húmedo. La presencia de fibras naturales de celulosa permite un secado seguro sin grietas ni fisuras, incluso en piezas grandes. Una vez seca, la arcilla se puede pintar o barnizar con cualquier tipo de pintura o barniz. También se puede pulir, tallar o perforar.\nIdeas para modelas con Sio2 Plus\nArcillas de secado al aire, para hacer cerámica dónde y cuándo te apetezca\n",
+    "color": "natural",
+    "temperature": {
+      "min_temperature": 20,
+      "max_temperature": 25,
+      "label": "Rango 20-25°C"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Arcilla Plus EXTRA BLANCO 5 Kg.",
+    "description": "Arcilla Plus EXTRA BLANCO 5 Kg. de la marca Sio-2 PLUS es la arcilla natural para modelar que endurece al aire sin necesidad de cocción, adquiriendo gran dureza, similar a la cerámica cocida.\nApta para uso infantil (a partir de 3 años) Sio-2 PLUS es un material didáctico muy adecuado en el desarrollo de la percepción y creatividad. Su naturaleza arcillosa le confiere una plasticidad excelente para el modelado y la presencia de fibras naturales de celulosa permiten un secado seguro sin grietas ni fisuras, aún con piezas grandes.\nEstá compuesta básicamente por arcillas naturales, lo que se aprecia en su tacto, plasticidad y, sobre todo, en su olor, diferenciándose de las pastas sintéticas, habitualmente caracterizadas por ofensivos olores.\nA diferencia de las pastas endurecibles del mercado, la Sio-2 PLUS puede tornearse y cocerse en horno cerámico. Una vez seca, puede colorearse o barnizarse con cualquier tipo de pintura o barniz. También puede pulirse, tallarse o perforarse.\nConforme a la normativa europea EN-71/3 y a la normativa USA (sello AP producto no tóxico).",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 880,
+      "max_temperature": 900,
+      "label": "Cono 13"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Plus Terracota 5 Kg",
+    "description": "Plus Terracota 5 Kg de la marca Sio-2 PLUS es la arcilla natural para modelar que endurece al aire sin necesidad de cocción, adquiriendo gran dureza, similar a la cerámica cocida.\nApta para uso infantil (a partir de 3 años) Sio-2 PLUS es un material didáctico muy adecuado en el desarrollo de la percepción y creatividad. Su naturaleza arcillosa le confiere una plasticidad excelente para el modelado y la presencia de fibras naturales de celulosa permiten un secado seguro sin grietas ni fisuras, aún con piezas grandes.\nEstá compuesta básicamente por arcillas naturales, lo que se aprecia en su tacto, plasticidad y, sobre todo, en su olor, diferenciándose de las pastas sintéticas, habitualmente caracterizadas por ofensivos olores.\nA diferencia de las pastas endurecibles del mercado, la Sio-2 PLUS puede tornearse y cocerse en horno cerámico. Una vez seca, puede colorearse o barnizarse con cualquier tipo de pintura o barniz. También puede pulirse, tallarse o perforarse.\nConforme a la normativa europea EN-71/3 y a la normativa USA (sello AP producto no tóxico).\nArcillas de secado al aire, para hacer cerámica dónde y cuándo te apetezca\n",
+    "color": "terracota",
+    "temperature": {
+      "min_temperature": 880,
+      "max_temperature": 900,
+      "label": "Cono 13"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Pasta Sin Cocción PLUS BLANCO 10 Kg.",
+    "description": "Sio-2 PLUS es la arcilla natural para modelar que endurece al aire sin necesidad de cocción, adquiriendo gran dureza, similar a la cerámica cocida.\nApta para uso infantil (a partir de 3 años) Sio-2 PLUS es un material didáctico muy adecuado en el desarrollo de la percepción y creatividad. Su naturaleza arcillosa le confiere una plasticidad excelente para el modelado y la presencia de fibras naturales de celulosa permiten un secado seguro sin grietas ni fisuras, aún con piezas grandes. Está compuesta básicamente por arcillas naturales, lo que se aprecia en su tacto, plasticidad y, sobre todo, en su olor, diferenciándose de las pastas sintéticas, habitualmente caracterizadas por ofensivos olores.\nA diferencia de las pastas endurecibles del mercado, la Sio-2 PLUS puede tornearse y cocerse en horno cerámico. Una vez seca, puede colorearse o barnizarse con cualquier tipo de pintura o barniz. También puede pulirse, tallarse o perforarse.\nConforme a la normativa europea EN-71/3 y a la normativa USA (sello AP producto no tóxico).\nArcillas de secado al aire, para hacer cerámica dónde y cuándo te apetezca\n",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 980,
+      "max_temperature": 1000,
+      "label": "Cono 9"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Pasta Sin Cocción PLUS TERRACOTA 10 Kg.",
+    "description": "Sio-2 PLUS es la arcilla natural para modelar que endurece al aire sin necesidad de cocción, adquiriendo gran dureza, similar a la cerámica cocida.\nApta para uso infantil (a partir de 3 años) Sio-2 PLUS es un material didáctico muy adecuado en el desarrollo de la percepción y creatividad. Su naturaleza arcillosa le confiere una plasticidad excelente para el modelado y la presencia de fibras naturales de celulosa permiten un secado seguro sin grietas ni fisuras, aún con piezas grandes. Está compuesta básicamente por arcillas naturales, lo que se aprecia en su tacto, plasticidad y, sobre todo, en su olor, diferenciándose de las pastas sintéticas, habitualmente caracterizadas por ofensivos olores.\nA diferencia de las pastas endurecibles del mercado, la Sio-2 PLUS puede tornearse y cocerse en horno cerámico. Una vez seca, puede colorearse o barnizarse con cualquier tipo de pintura o barniz. También puede pulirse, tallarse o perforarse.\nConforme a la normativa europea EN-71/3 y a la normativa USA (sello AP producto no tóxico).\nArcillas de secado al aire, para hacer cerámica dónde y cuándo te apetezca\n",
+    "color": "terracota",
+    "temperature": {
+      "min_temperature": 980,
+      "max_temperature": 1000,
+      "label": "Cono 9"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Arcilla líquida para moldes Flumo SIO2",
+    "description": "SIO-2 FLUMO® es barbotina (arcilla en estado líquido) sin cocción, que seca al aire adquiriendo gran dureza. Se usa con moldes de escayola por el sistema tradicional de colada, consiguiendo una pieza de gran calidad y de resistencia cerámica. Es un material muy adecuado para manualidades, especialmente para el mundo de las muñecas y miniaturas.\nEn estado líquido, el producto puede teñirse con cualquier pigmento o tinte convencional soluble en agua. Una vez seco, puede colorearse o barnizarse con cualquier tipo de pintura o barniz. También puede pulirse, tallarse o perforarse.\nConforme a la normativa europea EN-71 y a la normativa USA (sello AP producto no tóxico). Permanece inalterable en sus condiciones originales de envase por un período mínimo de dos años.\nFICHA TÉCNICA\nArcillas de secado al aire, para hacer cerámica dónde y cuándo te apetezca\n",
+    "color": "transparente",
+    "temperature": {
+      "min_temperature": 20,
+      "max_temperature": 25,
+      "label": "Rango 20-25°C"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Arcilla Refractaria Zamora (PRAI) *5Kg",
+    "description": "La Arcilla Refractaria Zamora 5 Kg (*PRAI) es la pasta conocida como Refractario Albino (blanco) impalpable, pero en este caso en formato de 5 Kg. Chamota de 0-0,2 que no se percibe al tacto.\nUna muy buena idea del fabricante para poder probar distintas pastas o bien realizar un trabajo puntual.\nPasta de gres para escultura y modelado. Plasticidad excelente.\nContiene un 40% de chamota impalpable 0-0.2 mm. Es ideal para tornear y modelar piezas con finos detalles y superficie lisa. El elevado contenido en chamota le proporciona un excelente comportamiento durante el secado y la cocción. Su particular color blanco marfil en cocción (1240-1300ºC) es muy apreciado y proporciona la base excelente para el desarrollo del color en esmaltes y óxidos colorantes.\nFICHA TÉCNICA",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 1220,
+      "max_temperature": 1240,
+      "label": "Cono 3"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Arcilla refractaria Granada (PRAF) *5Kg",
+    "description": "La Arcilla Refractaria Granada 5 Kg (*PRAF) es la pasta conocida como Refractario Albino (blanco) chamotado fino, pero en este caso en formato de 5 Kg. Chamota de 0-0,5 que resulta apta también para torno.\nUna muy buena idea del fabricante para poder probar distintas pastas o bien realizar un trabajo puntual.\nPasta de gres para escultura y modelado. Plasticidad excelente.\nContiene un 40% de chamota fina 0-0.5 mm. Es ideal para tornear y modelar piezas con finos detalles y superficie lisa. El elevado contenido en chamota le proporciona un excelente comportamiento durante el secado y la cocción. Su particular color blanco marfil en cocción (1240-1300ºC) es muy apreciado y proporciona la base excelente para el desarrollo del color en esmaltes y óxidos colorantes.\nFICHA TÉCNICA",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 1220,
+      "max_temperature": 1240,
+      "label": "Cono 3"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Arcilla Refractaria Lanzarote (PRNF) *5Kg",
+    "description": "La Arcilla Refractaria Lanzarote 5 Kg (*PRNF) es la pasta conocida como Refractario Negro chamotado fino, pero en este caso en formato de 5 Kg.\nPasta de gres para escultura y modelado. Plasticidad excelente.\nContiene un 40% de chamota fina 0-0.5 mm. Es ideal para escultura y murales decorativos. El elevado contenido en chamota confiere carácter a la pieza y le proporciona un excelente comportamiento durante el secado y la cocción. En cocción (1200-1260ºC), desarrolla un particular color marrón tostado oscuro, muy popular y apreciado, con destonificaciones que realzan el relieve, convirtiéndola en un medio de expresión artístico ideal.\nFICHA TÉCNICA",
+    "color": "marrón tostado oscuro",
+    "temperature": {
+      "min_temperature": 1180,
+      "max_temperature": 1200,
+      "label": "Cono 4"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Refractario Albino Impalpable PRAI 12.5 kg",
+    "description": "Refractario Albino Impalpable PRAI cuya temperatura de cocción es de 1240º-1300º.\nSe suministra en formato de 12,5 Kg.\nCon chamota impalpable de granulometría 0.02 mm.\nUtilizable en muy diversas aplicaciones: cerámica estructural, decorativa y, especialmente, artística, en cuyo ámbito destaca en su utilización para murales y escultura. Excelente comportamiento en secado, incluso en piezas de gran espesor.\nA diferentes temperaturas entre 1100º y 1300º, para mono y bicocción, en atmósfera oxidante y reductora, se obtiene un interesante gradiente de colores.\nFICHA TÉCNICA",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 1220,
+      "max_temperature": 1240,
+      "label": "Cono 3"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Refractario Albino Fino PRAF 12.5 kg",
+    "description": "Arcilla refractaria blanca con chamota fina. Su temperatura de cocción es de 1240º-1300º.\nSe suministra en formato de 12,5 Kg.\nCon chamota fina de granulometría 0-0.5 mm.\nUtilizable en muy diversas aplicaciones: cerámica estructural, decorativa y, especialmente, artística, en cuyo ámbito destaca en su utilización para murales y escultura. Excelente comportamiento en secado, incluso en piezas de gran espesor.\nA diferentes temperaturas entre 1100º y 1300º, para mono y bicocción, en atmósfera oxidante y reductora, se obtiene un interesante gradiente de colores.\nFICHA TÉCNICA",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 1220,
+      "max_temperature": 1240,
+      "label": "Cono 3"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Refractario Albino Medio PRAM 12.5 kg",
+    "description": "Refractario Albino Medio PRAM cuya temperatura de cocción es de 1240º-1300º.\nCon chamota media de granulometría 0-1.5 mm.\nSe suministra en formato de 12,5 Kg.\nUtilizable en muy diversas aplicaciones: cerámica estructural, decorativa y, especialmente, artística, en cuyo ámbito destaca en su utilización para murales y escultura. Excelente comportamiento en secado, incluso en piezas de gran espesor.\nA diferentes temperaturas entre 1100º y 1300º, para mono y bicocción, en atmósfera oxidante y reductora, se obtiene un interesante gradiente de colores.\nFICHA TÉCNICA",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 1220,
+      "max_temperature": 1240,
+      "label": "Cono 3"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Refractario Impalpable PRGI 12.5 kg",
+    "description": "Pasta refractaria tostada con chamota impalpable (0-0.2 mm.), para aprovechar los beneficios de la chamota en cuanto a secado y resistencia, pero sin notar la textura de la misma. Diseñada para cerámica artística.\nDe color tostado en cocción (recomendado 1240-1250ºC).\nEnvase de 12,5 Kg. Su elevada plasticidad la hace óptima para el modelado.\nEn cocción, desarrolla un particular color marrón tostado luminoso, muy popular y apreciado, con destonificaciones que realzan el relieve, convirtiéndola en un medio de expresión artístico ideal. Muy utilizada para murales y escultura. Presenta muy buen comportamiento para Rakú.\nFICHA TÉCNICA",
+    "color": "marrón tostado",
+    "temperature": {
+      "min_temperature": 1220,
+      "max_temperature": 1240,
+      "label": "Cono 3"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Refractario Fino PRGF 12.5 kg",
+    "description": "Arcilla refractaria tostada con 40% chamota fina 0-0.5 mm.\nTemperatura de cocción de 1240º-1300º.\nSe suministra en envases de 12,5 Kg.\nUtilizable en muy diversas aplicaciones: cerámica estructural, decorativa y, especialmente, artística, en cuyo ámbito destaca en su utilización para murales y escultura. Excelente comportamiento en secado, incluso en piezas de gran espesor.\nA diferentes temperaturas entre 1100º y 1300º, para mono y bicocción, en atmósfera oxidante y reductora, se obtiene un interesante gradiente de colores.\nFICHA TÉCNICA",
+    "color": "refractario",
+    "temperature": {
+      "min_temperature": 1220,
+      "max_temperature": 1240,
+      "label": "Cono 3"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Refractario Medio PRGM 12.5 kg",
+    "description": "La arcilla refractaria PRGM cuya temperatura de cocción es de 1240º-1300ºC contiene un 40% de chamota media 0-1.5 mm. Se suministra en envases de 12,5 Kg. De color tostado en cocción.\nUtilizable en muy diversas aplicaciones: cerámica estructural, decorativa y, especialmente, artística, en cuyo ámbito destaca en su utilización para murales y escultura. Excelente comportamiento en secado, incluso en piezas de gran espesor.\nA diferentes temperaturas entre 1100º y 1300º, para mono y bicocción, en atmósfera oxidante y reductora, se obtiene un interesante gradiente de colores.\nFICHA TÉCNICA",
+    "color": "tostado",
+    "temperature": {
+      "min_temperature": 1220,
+      "max_temperature": 1240,
+      "label": "Cono 3"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Berlín Gris Chamota Impalpable 12.5 KG",
+    "description": "El Refractario BERLIN Color Gris se presenta extrusionado con un 40% chamota impalpable 0-0.2 mm.\nDiseñado para cerámica artística y decorativa, es ideal para escultura y piezas de exterior (jardineras, pavimento, etc.). En función de la temperatura de cocción, desarrolla una bella gama de grises, desde el tono cemento al gris oscuro, que satisface las tendencias más vanguardistas en cerámica artística y decorativa.\nTemperatura de cocción: 1200-1300ºC\nTemperatura bizcocho: 1000ºC\nHumedad: 17%.",
+    "color": "gris",
+    "temperature": {
+      "min_temperature": 1180,
+      "max_temperature": 1200,
+      "label": "Cono 4"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Porcelana ANETO blanca 5kg.",
+    "description": "La Porcelana Blanca Aneto de la firma Sio2 es una porcelana blanca traslúcida que destaca por su alta plasticidad, lo que la hace excepcional para trabajar al torno y para modelar. Su fórmula es muy estable y permite un rango de cocción seguro entre 1230 y 1270ºC. Disponible en pasta plástica extrusionada. Se presenta en un práctico formato cilíndrico de 5 kg con doble envase.\nTemperatura de cocción: 1230-1270ºC\nTemperatura bizcocho: 1000ºC\nHumedad: 21%.\nFICHA TÉCNICA",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 1220,
+      "max_temperature": 1240,
+      "label": "Cono 3"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Porcelana LOTUS extra blanca 5kg.",
+    "description": "La porcelana Lotus Imperial se caracteriza por su extraordinaria blancura. Ideal para vajilla y porcelana decorativa. Disponible en pasta plástica extrusionada. Se presenta en un práctico formato cilíndrico de 5 kg con doble envase.\nTemperatura de cocción: 1260-1290ºC.\nTemperatura bizcocho: 1000ºC\nHumedad: 24%\nContracción secado: 5.8%\nContracción cocción (1270ºC): 9.1%\nPorosidad (absorción de agua 1270ºC): 0.0%\nFICHA TÉCNICA",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 980,
+      "max_temperature": 1000,
+      "label": "Cono 9"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Porcelana JADE traslúcida 5kg.",
+    "description": "La porcelana Jade Imperial super translúcida procede de la ciudad de Jingdezhen, capital mundial y cuna de la porcelana imperial china desde hace 1.700 años. Se caracteriza por su extraordinaria translucidez y blancura. Es ideal para trabajos decorativos y vajillas. Disponible en pasta plástica extrusionada. Se presenta en un práctico formato cilíndrico de 5 kg con doble envase.\nTemperatura de cocción: 1260-1290ºC\nTemperatura bizcocho: 1000ºC\nHumedad: 25%\nContracción secado: 5.9%\nContracción cocción (1270ºC): 10.2%\nPorosidad (absorción de agua 1270ºC): 0.0%\nFICHA TÉCNICA",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 1240,
+      "max_temperature": 1260,
+      "label": "Cono 1"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Porcelana LAGOON Verde 5 Kg.",
+    "description": "LAGOON es una porcelana que destaca por su bella y estimulante gama de azules turquesa en su rango de cocción. Presenta una elevada plasticidad, lo que la hace idónea para trabajar al torno y para modelar. Su fórmula es muy estable y permite un rango de cocción seguro entre 1200 y 1240ºC (atmósfera oxidante). Apto para vajilla (food-safe), según ISO 6486. Disponible en pasta plástica extrusionada. Se presenta en formato cilíndrico de 5 kg en caja de cartón.\nTemperatura de cocción: 1200-1240ºC\nTemperatura bizcocho: 1000ºC\nHumedad: 23%\nContracción secado: 5.6%\nContracción cocción 1240ºC: 10.6%\nPeso/Volumen 5 kg\nChamota Sin chamota (liso).",
+    "color": "verde",
+    "temperature": {
+      "min_temperature": 1180,
+      "max_temperature": 1200,
+      "label": "Cono 4"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Porcelana UPSALA azul 5kg.",
+    "description": "La Porcelana Azul Upsala destaca por su exclusivo color azul cobalto. Presenta una elevada plasticidad, lo que la hace idónea para trabajar al torno y para modelar. Su fórmula es muy estable y permite un rango de cocción seguro entre 1200 y 1240ºC (atmósfera oxidante). Disponible en pasta plástica extrusionada. Se presenta en un práctico formato cilíndrico de 5 kg con doble envase.\nTemperatura de cocción: 1200-1240ºC\nTemperatura bizcocho: 1000ºC\nHumedad: 21%\nContracción secado: 5.2%\nContracción cocción (1220ºC): 10.4%\nPorosidad (absorción de agua 1220ºC): 0.0%\nFICHA TÉCNICA",
+    "color": "azul",
+    "temperature": {
+      "min_temperature": 1180,
+      "max_temperature": 1200,
+      "label": "Cono 4"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Porcelana BLACK ICE negra 5kg.",
+    "description": "La Porcelana Negra Black Ice destaca por su bello color negro grafito. Presenta una elevada plasticidad, lo que la hace idónea para trabajar al torno y para modelar. Su fórmula es muy estable y permite un rango de cocción seguro entre 1200 y 1240ºC.\n*Tengamos en cuenta que las pastas negras son más sensibles a sus rangos de temperatura y no podremos llegar con ella a la temperatura con la que sí llegaremos con la blanca.\nSe presenta en un práctico formato cilíndrico de 5 kg de masa plástica con doble envase.\nTemperatura de cocción: 1200-1240ºC\nTemperatura bizcocho: 1000ºC\nHumedad: 20%\nFICHA TÉCNICA",
+    "color": "negro",
+    "temperature": {
+      "min_temperature": 1180,
+      "max_temperature": 1200,
+      "label": "Cono 4"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Zumaia Gris CH-Fina 12.5 kg",
+    "description": "El Refractario ZUMAIA Color Gris se presenta extrusionado con un 40% chamota fina 0-0.5 mm.\nDiseñado para cerámica artística y decorativa, es ideal para escultura y piezas de exterior (jardineras, pavimento, etc.). El elevado contenido en chamota confiere carácter a la pieza cerámica y le proporciona un excelente comportamiento durante el secado y la cocción. En función de la temperatura de cocción, desarrolla una bella gama de grises, desde el tono cemento al gris oscuro, que satisface las tendencias más vanguardistas en cerámica artística y decorativa.\nTemperatura de cocción: 1200-1300ºC\nTemperatura bizcocho: 1000ºC\nHumedad: 17%.\nFICHA TÉCNICA",
+    "color": "gris",
+    "temperature": {
+      "min_temperature": 1180,
+      "max_temperature": 1200,
+      "label": "Cono 4"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Barcino Gris CH-Media 12.5 Kg.",
+    "description": "Pasta refractaria de color gris con 40% chamota media 0-1.5 mm.\nDiseñada para cerámica artística y decorativa, es ideal para esculturas de mayor tamaño y piezas grandes de exterior. El elevado contenido en chamota confiere carácter a la pieza cerámica y le proporciona un excelente comportamiento durante el secado y la cocción. En función de la temperatura de cocción, desarrolla una bella gama de grises, desde el tono cemento al gris oscuro, que satisface las tendencias más vanguardistas en cerámica artística y decorativa. Disponible en pasta plástica extrusionada.\nTemperatura de cocción: 1200-1300ºC\nTemperatura bizcocho: 1000ºC\nHumedad: 17%.\nFICHA TÉCNICA\n ",
+    "color": "gris",
+    "temperature": {
+      "min_temperature": 1180,
+      "max_temperature": 1200,
+      "label": "Cono 4"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Refractario Toffee impalpable",
+    "description": "Presentamos la nueva pasta refractaria TOFFEE, un gres de tonos caramelo que complementa la exitosa gama de pastas refractarias SIO-2® para cerámica artística.\nContiene un 40% de chamota impalpable 0-0.2 mm, por lo que es ideal para tornear y modelar piezas con finos detalles y superficie lisa. Su elevado contenido en chamota le proporciona un excelente comportamiento durante el secado y la cocción, siendo adecuada tanto para profesionales como aficionados.\nEn función de la temperatura de cocción, desarrolla una bella gama de tonos naturales, desde el beige avena al marrón caramelo, que crean una base cálida muy apreciada en decoración cerámica, pues marida a la perfección tanto en espacios tradicionales como vanguardistas. Es también apta para vajilla (food-safe).\nTemperatura de cocción: 1200-1300ºC\nTemperatura bizcocho: 1000ºC\nHumedad: 19%\nUnidad de venta: 12.5 kg.",
+    "color": "caramelo",
+    "temperature": {
+      "min_temperature": 1180,
+      "max_temperature": 1200,
+      "label": "Cono 4"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Refractario Rojo MARTE 12.5 Kg.",
+    "description": "Pasta refractaria roja con 40% chamota fina 0-0.5 mm. Diseñada para cerámica artística, es ideal para escultura y murales decorativos. El elevado contenido en chamota confiere carácter a la pieza cerámica y le proporciona un excelente comportamiento durante el secado y la cocción. En función de la temperatura de cocción, desarrolla una bella gama de tonos rojos que se intensifican con la temperatura y que proporcionan un medio de expresión artístico ideal. Disponible en pasta plástica extrusionada.\nTemperatura de cocción*: 1100-1260ºC\nTemperatura bizcocho: 1000ºC\nHumedad: 19%\n12.5 Kg.\nContracción secado: 6.6%\nContracción cocción 1260ºC: 3.8%\nPorosidad (absorción de agua) 1260ºC: 8.6%\nResistencia mecánica en seco: 2.1 N/mm2\n(*) Rango de cocción recomendado para que la pasta desarrolle sus mejores prestaciones, tanto a nivel de características técnicas como de seguridad, en condiciones de cocción convencionales. Las muestras de color pueden mostrar temperaturas fuera del rango recomendado para brindar una visión más amplia, pero se trata de piezas cocidas en condiciones controladas.",
+    "color": "rojo",
+    "temperature": {
+      "min_temperature": 1100,
+      "max_temperature": 1120,
+      "label": "Cono 6"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Refractario Negro Impalpable PRNI 12.5 kg",
+    "description": "El Refractario Negro Impalpable PRNI puede utilizarse en muy diversas aplicaciones: cerámica estructural, decorativa y, especialmente, artística, en cuyo ámbito destaca en su utilización para murales y escultura.\nEnvase de 12,5 Kg. Pasta refractaria negra chamotada (1200º-1240ºC).\nEsta variedad de chamotado impalpable contiene chamota pulverizada que ayuda a evitar agrietado sin que notemos la textura.\nA diferentes temperaturas entre 1100º y 1240º, para mono y bicocción, en atmósfera oxidante y reductora, se obtiene un interesante gradiente de colores.\nFICHA TÉCNICA",
+    "color": "negro",
+    "temperature": {
+      "min_temperature": 1100,
+      "max_temperature": 1120,
+      "label": "Cono 6"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Porcelana ALETSCH con chamota 5kg.",
+    "description": "Aletsch es una porcelana blanca de la firma Sio-2 con 20% de chamota 0.2-0.5 mm de moloquita.\nLa moloquita confiere a la porcelana una textura muy particular y le proporciona un excelente comportamiento durante el secado y la cocción. Su fórmula es muy estable y permite un rango de cocción seguro entre 1230 y 1270°C. Disponible en pasta plástica extrusionada. Se presenta en un práctico formato cilíndrico de 5 kg con doble envase.\nFICHA TÉCNICA",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 1220,
+      "max_temperature": 1240,
+      "label": "Cono 3"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Porcelana CELLULAIN con Fibra de Papel 5kg",
+    "description": "Cellulain es una porcelana blanca traslúcida con fibra de papel que destaca por su excepcional plasticidad, lo que la hace única para el modelado. Está especialmente diseñada para la creación en porcelana de formas imposibles. La presencia de fibras de papel en su interior evita la formación de grietas y deformaciones, convirtiéndola en un medio de expresión artística muy particular. Su fórmula es muy estable y permite un rango de cocción seguro entre 1230 y 1270ºC. Disponible en pasta plástica extrusionada.\nSe presenta en un práctico formato cilíndrico de 5 kg con doble envase.\nTemperatura de cocción: 1230-1270ºC\nTemperatura bizcocho: 1000ºC\nHumedad: 26%\nContracción secado: 4.4%\nContracción cocción (1250ºC): 11.4%\nPorosidad (absorción de agua 1250ºC): 2.8%\nFICHA TÉCNICA\n*Foto pieza: Penélope Vallejo",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 1220,
+      "max_temperature": 1240,
+      "label": "Cono 3"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Porcelana SAF blanca 10Kg.",
+    "description": "La Porcelana Blanca SAF Extrusionada está destinada a trabajos de prensa o modelado a mano. Se presenta en masa extrusionada y con envasado al vacío en bloque de 10 Kg.\nTemperatura de cocción de 1260-1300ºC.\nFICHA TÉCNICA",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 1240,
+      "max_temperature": 1260,
+      "label": "Cono 1"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "130 Gres Blanco sin chamota 12.5 kg",
+    "description": "Pasta Gres de modelado de color blanco/grisáceo en cocido.\nFormato de venta de 12.5 kg.\nTemperatura recomendada 1250ºC\nContracción de secado:  4.5 – 6.5 %\nPérdida al fuego:   5,2 – 6,2 %\n*Extrememos el cuidado durante el secado con todas las pastas, especialmente estos greses, para evitar fisuras que luego se hagan visibles en la cocción.\nFICHA TÉCNICA",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 1230,
+      "max_temperature": 1250,
+      "label": "Cono 2"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "130 CH-F Gres Blanco 12.5 kg",
+    "description": "Pasta Gres de modelado de color blanco/grisáceo en cocido.\nIncorpora chamota fina de granulometría 0-0.5 mm.\nContracción de secado:  4.5 – 6.5 % / Pérdida al fuego:  5 %\nFormato de venta: 12.5 kg.\nTemperatura recomendada 1250ºC\n*Extrememos el cuidado durante el secado con todas las pastas, especialmente estos greses, para evitar fisuras y roturas que sean visibles tras la cocción.\nFICHA TÉCNICA\n ",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 1230,
+      "max_temperature": 1250,
+      "label": "Cono 2"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Gres Fino Blanco BT 10 kg",
+    "description": "Gres Blanco BT Torno es un gres refractario con chamota muy fina (impalpable al tacto).  Idóneo para trabajar al torno por su finura y su plasticidad. Color blanco en oxidante (horno eléctrico) y crema en reducción (gas).\nSe suministra en formato de 10 Kg.\nTemperatura de cocción de 1260-1280ºC.\nSe utiliza en la fabricación de vajillas realizadas a mano, también apreciado para modelar debido a que no tiene textura y confiere a las piezas un aspecto liso.\nFICHA TÉCNICA",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 1240,
+      "max_temperature": 1260,
+      "label": "Cono 1"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Gres con Fibra de Papel PCLI PaperClay 12.5 KG",
+    "description": "El Gres Fibra de Papel PCLI «PaperClay» está diseñado para cerámica artística y escultura, siendo idónea, por su gran plasticidad, para torno y modelado.\nSe suministra en envases de 12,5 Kg. Está especialmente indicada para la realización de formas imposibles y de secado difícil. Su amplio rango de temperatura (1100º-1260ºC) hace que sea muy versátil a la hora de esmaltar.\nLa presencia de fibras de papel en su interior evitan la formación de grietas y deformaciones, y convierten la PCL en un medio de expresión artístico extraordinario.\nFICHA TÉCNICA",
+    "color": "gris",
+    "temperature": {
+      "min_temperature": 1100,
+      "max_temperature": 1120,
+      "label": "Cono 6"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Gres Blanco PGV 1150ºC 12.5 kg",
+    "description": "El Gres Culinario PGV contiene una fórmula especial concebida para la realización de piezas para vajilla de alta resistencia al impacto. Gresifica a media temperatura (semigres), lo cual nos amplía mucho las posibilidades de esmaltado.\nSe suministra en formato de 12,5 Kg.\nRango de temperatura recomendada en torno a 1180ºC.\nEl color blanco en cocción proporciona la base excelente para el desarrollo de color en esmaltes y óxidos colorantes, siendo una pasta muy adecuada para múltiples aplicaciones. Su fina textura la hacen ideal para tornear y modelar.\nFICHA TÉCNICA",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 1100,
+      "max_temperature": 1120,
+      "label": "Cono 6"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Gres Crema WM-2502 10 kg",
+    "description": "Gres Crema WM-2502 para torno y modelado de excelente plasticidad.\nProcedente de la firma alemana Sibelco. Con 25% de chamota impalpable 0-0.2mm. Para cerámica artística y decorativa.\nIdeal para tornear y modelar.\nRango cocción: 1000ºC-1300ºC.\nSe suministra en formato de 10 Kg.\nAgradable tonalidad crema / tostado.\n ",
+    "color": "crema",
+    "temperature": {
+      "min_temperature": 980,
+      "max_temperature": 1000,
+      "label": "Cono 9"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Arcilla Blanca M5/8 12.5 kg",
+    "description": "La Arcilla Blanca Montesa M5/8 es una pasta de loza calcárea de cocción muy blanca. Su composición mantiene unas condiciones estables para unas temperaturas de cocción comprendidas entre 1000º C y 1050º C*. Destinadas al torneado manual y a máquina, roller y prensado.\nEnvase de 12,5 Kg.\n*Bizcochar siempre las pastas blancas (calcáreas) de baja temperatura a un mínimo de 1.000º-1050ºC, para evitar roturas y favorecer el desarrollo del esmalte en segunda cocción\nFICHA TECNICA",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 980,
+      "max_temperature": 1000,
+      "label": "Cono 9"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Arcilla Blanca PA 12.5 kg",
+    "description": "La Arcilla Blanca PA es especial para torno y modelado. Pasta muy polivalente y apreciada por su finura, plasticidad y regularidad.\nEnvase de 12,5 Kg.\nDestaca su compensada proporción de carbonato cálcico que le confiere mayor estabilidad respecto a las pastas tradicionales de loza, presentando además unos coeficientes de dilatación idóneos para los esmaltes estándares de alfarería, tanto en mono como en bicocción. Disponible en pasta plástica extrusionada con diferentes humedades para su aplicación en los distintos procesos de conformado.\nNunca nos cansaremos de advertir: Las pastas blancas de baja temperatura (lozas) son muy calcáreas. Debemos bizcochar (primera cocción) a más de 1.000ºC (1050 o1100 sin miedo) para que esta cal desaparezca del todo y luego no tengamos problemas de roturas y esmaltado en segunda cocción.\nFICHA TÉCNICA",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 980,
+      "max_temperature": 1000,
+      "label": "Cono 9"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Arcilla Blanca PA-CH 12.5 kg",
+    "description": "La Arcilla Blanca Ch-Fina PA-CH tiene un 20% de chamota fina 0-0.5 mm. Ideal para piezas de tamaño medio.\nSe suministra en envase de 12,5 Kg.\nLa presencia de chamota le confiere una superficie texturada (no lisa) muy interesante y, a su vez, le aporta unas propiedades idóneas para la elaboración de piezas de secado difícil, evitando deformaciones y aparición de grietas. Disponible en pasta plástica extrusionada, siendo adecuada para modelar y moldear.\nComo norma general para todas las arcillas blancas de baja temperatura, recordamos la importancia de cocer la primera cocción (bizcochado) a 1050ºC aprox., siempre mínimo de 1.000, pues es necesario que la cal existente se elimine. Su presencia nos puede suponer agrietados, roturas y problemas de esmaltado.\nFICHA TÉCNICA",
+    "color": "blanco",
+    "temperature": {
+      "min_temperature": 980,
+      "max_temperature": 1000,
+      "label": "Cono 9"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Arcilla Roja Tradicional PF 12.5 Kg",
+    "description": "La arcilla roja tradicional PF de alfarería de alta calidad. Pasta muy polivalente y apreciada por su finura, plasticidad y regularidad.\nEnvase de 12,5 Kg.\nPresenta unos coeficientes de dilatación idóneos para los esmaltes estándares de alfarería, tanto en mono como en bicocción. A destacar sus magníficos resultados en atmósfera reductora (técnica de reflejos metálicos).\nFICHA TÉCNICA",
+    "color": "rojo",
+    "temperature": {
+      "min_temperature": 880,
+      "max_temperature": 900,
+      "label": "Cono 13"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Refractario Negro Fino PRNF 12.5 kg",
+    "description": "El Refractario Negro Fino PRNF es apto para torno. Contiene 40% de chamota fina 0-0.5 mm.\nEnvase de 12,5 Kg. Temperatura recomendada de cocción 1200º-1260ºC.\nUtilizable en muy diversas aplicaciones: cerámica estructural, decorativa y, especialmente, artística, en cuyo ámbito destaca en su utilización para murales y escultura. Excelente comportamiento en secado, incluso en piezas de gran espesor.\nA diferentes temperaturas entre 1100º y 1260º, para mono y bicocción, en atmósfera oxidante y reductora, se obtiene un interesante gradiente de colores.\nFICHA TÉCNICA",
+    "color": "negro",
+    "temperature": {
+      "min_temperature": 1180,
+      "max_temperature": 1200,
+      "label": "Cono 4"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Refractario Negro Medio PRNM 12.5 kg",
+    "description": "El Refractario Negro Medio PRNM es una pasta con una chamota intermedia muy apropiada para modelado escultórico. Contiene un 40% de chamota media 0-1.5 mm.\nEnvase de 12,5 Kg. Su temperatura de cocción es de 1200º-1260º.\nUtilizable en muy diversas aplicaciones: cerámica estructural, decorativa y, especialmente, artística, en cuyo ámbito destaca en su utilización para murales y escultura. Excelente comportamiento en secado, incluso en piezas de gran espesor.\nA diferentes temperaturas entre 1100º y 1260º, para mono y bicocción, en atmósfera oxidante y reductora, se obtiene un interesante gradiente de colores.\nFICHA TÉCNICA",
+    "color": "negro",
+    "temperature": {
+      "min_temperature": 1180,
+      "max_temperature": 1200,
+      "label": "Cono 4"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Refractario Negro Grueso PRNG 12.5 kg",
+    "description": "El Refractario Negro Grueso PRNG es una pasta diseñada para cerámica artística. Contiene un 40% de chamota gruesa de 1-3 mm. Envase de 12,5 Kg. Pasta refractaria negra chamotada (1200º-1260ºC).\nSu intenso color negro en cocción oxidante es muy exclusivo y apreciado, convirtiéndola en un medio de expresión artístico ideal. En atmósfera reductora se obtienen excelentes efectos de metalizaciones de bellos tonos azulados.\nPRNG: Pasta refractaria negra con chamota gruesa 1-3 mm. Ideal para esculturas de grandes dimensiones y piezas con una gran expresividad artística. Disponible en pasta plástica extrusionada.\nFICHA TÉCNICA",
+    "color": "negro",
+    "temperature": {
+      "min_temperature": 1180,
+      "max_temperature": 1200,
+      "label": "Cono 4"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Arcilla Roja Chamotada PF CH-F 12.5 kg",
+    "description": "La arcilla roja chamotada PF CH-F con el 20% de chamota fina 0-0.5 mm. Ideal para piezas de tamaño medio.\nEnvase de 12,5 Kg.\nLa presencia de chamota le confiere una superficie texturada (no lisa) que le da carácter y, a su vez, le aporta unas propiedades idóneas para la elaboración de piezas de secado difícil, evitando deformaciones y aparición de grietas. Disponible en pasta plástica extrusionada, siendo adecuada para modelar y moldear.\nFICHA TÉCNICA",
+    "color": "rojo",
+    "temperature": {
+      "min_temperature": 880,
+      "max_temperature": 900,
+      "label": "Cono 13"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "PT Arcilla Terracota 12.5 kg",
+    "description": "Nueva Arcilla Terracota PT.\nFórmula ajustada manteniendo la misma calidad y prestaciones. Más marrón en crudo que la anterior PT, debido al cambio de yacimiento de la materia prima pero es mismo tono en cocción (más suave que la arcilla roja tradicional).\nFormato de 12.5 kg.\nFICHA TÉCNICA",
+    "color": "marrón",
+    "temperature": {
+      "min_temperature": 880,
+      "max_temperature": 900,
+      "label": "Cono 13"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Arcilla Terracota Chamotada PT CH-F 12.5 kg",
+    "description": "Arcilla terracota chamotada PT CH-F con el 25% de chamota fina 0-0.5 mm. Ideal para piezas de tamaño medio.\nEnvase de 12,5 Kg.\nFórmula ajustada manteniendo la misma calidad y prestaciones. Más marrón en crudo que la anterior PT, debido al cambio de yacimiento de la materia prima pero es mismo tono en cocción (más suave que la arcilla roja tradicional).\nLa presencia de chamota le confiere una superficie texturada (no lisa) que le da carácter y, a su vez, le aporta unas propiedades idóneas para la elaboración de piezas de secado difícil, evitando deformaciones y aparición de grietas. Su alta resistencia a la helada y a la degradación ambiental la hacen ideal para piezas expuestas al exterior (jardineras de gran tamaño, azulejos, tejas, etc.). Disponible en pasta plástica extrusionada, siendo adecuada para modelar y moldear.\nFICHA TÉCNICA",
+    "color": "marrón",
+    "temperature": {
+      "min_temperature": 880,
+      "max_temperature": 900,
+      "label": "Cono 13"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Arcilla Negra PM Manganeso 12.5 kg",
+    "description": "Arcilla Negra PM Manganeso es una pasta negra de baja temperatura para torno y modelado.\nTemperatura de cocción 970º-1025º.\nEnvase de 12,5 Kg. Su color negro en atmósfera oxidante destaca en la gama de colores de baja temperatura.\nExcelente comportamiento con esmaltes.\nEn general las arcillas negras serán las más «blandas» de sus familias. Es decir, deberemos tener cuidado de aproximarnos a sus temperaturas límite superiores. Si bien una loza o una pasta roja de baja no va a tener problemas si la llevamos a 1100ºC, la pasta negra no debemos llevarla a esos límites.\nFICHA TÉCNICA",
+    "color": "negro",
+    "temperature": {
+      "min_temperature": 950,
+      "max_temperature": 970,
+      "label": "Cono 10"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Arcilla Azul PLA 5 kg",
+    "description": "La Arcilla Azul PLA destaca por su apreciado color azul a baja temperatura y atmósfera oxidante (=horno eléctrico).\nSe presenta en envase de 5 Kg.\nDe gran finura y plasticidad, lo que le confiere unas magníficas prestaciones para tornear y modelar. Muy buen comportamiento con esmaltes. Disponible en pasta plástica extrusionada.\nTemperatura de cocción: 1050-1080ºC\nFICHA TÉCNICA",
+    "color": "azul",
+    "temperature": {
+      "min_temperature": 1060,
+      "max_temperature": 1080,
+      "label": "Cono 7"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Arcilla Verde PLV 5 kg",
+    "description": "La Arcilla Verde PLV destaca por su apreciado color verde a baja temperatura y atmósfera oxidante (=horno eléctrico).\nSe presenta en envase de 5 Kg.\nPresenta una gran finura y plasticidad que le ofrece unas magníficas prestaciones para tornear y modelar. Muy buen comportamiento con esmaltes. Disponible en pasta plástica extrusionada de 5 Kg.\nTemperatura de cocción: 1050-1080ºC.\nFICHA TÉCNICA",
+    "color": "verde",
+    "temperature": {
+      "min_temperature": 1060,
+      "max_temperature": 1080,
+      "label": "Cono 7"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Arcilla Roja Apache 12.5 kg",
+    "description": "La arcilla roja Apache es una pasta micácea concebida gracias a la colaboración del ceramista de New México, Felipe Ortega, recrea la composición original de arcillas utilizadas por la tradición Apache para la realización de cerámica utilitaria de uso al fuego directo.\nEnvase de 12,5 Kg.\nSe compone de arcillas rojas de bajo coeficiente de dilatación y, sobre todo, de una matriz abundante de mica, que le confiere elasticidad y le da un acabado muy reconocible. Apta para llama directa y alfarería.\nSu carácter original se obtiene mediante cocción con leña.\nTemperatura de cocción: 920-1000ºC\nFICHA TÉCNICA",
+    "color": "rojo",
+    "temperature": {
+      "min_temperature": 900,
+      "max_temperature": 920,
+      "label": "Cono 12"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Gres NT impalpable 12,5 kg.",
+    "description": "Gres Crema NT Chamota impalpable. Contiene un 18 % de chamota de granulometría de 0-0.2 mm. Color crema en oxidante y marón claro en reducción. Temperatura de cocción de 1260-1280ºC.\nSe suministra en formato de 12,5 Kg.\nIdóneo para trabajar al torno por su finura y su plasticidad.\nSe utiliza en la fabricación de vajillas realizadas a mano, por su color y textura les confiere un aspecto rústico.\nAdecuado también para la fabricación de piezas de decoración.\nFICHA TÉCNICA",
+    "color": "crema",
+    "temperature": {
+      "min_temperature": 1240,
+      "max_temperature": 1260,
+      "label": "Cono 1"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Gres Rojo NT-R fino/Impalpable 12.5 kg",
+    "description": "Gres NT-Rojo Chamota Impalpable. Contiene un 40% de chamota de granulometría de 0-0.2 mm.\nSe suministra en formato de 12,5 Kg.\nColor rojo en oxidante y granate metalizado en reducción.\nTemperatura de cocción 1240ºC-1280ºC.\nPor su finura y plasticidad es idóneo para trabajar a torno y modelado.",
+    "color": "rojo",
+    "temperature": {
+      "min_temperature": 1220,
+      "max_temperature": 1240,
+      "label": "Cono 3"
+    },
+    "isPublic": true
+  },
+  {
+    "name": "Gres CT Chamota Fina 12.5 kg",
+    "description": "Gres Chamotado CT de color tostado. Contiene un 39% de chamota, granulometría de 0-0.5 mm.\nSe suministra en formato de 12,5 Kg.\nTemperatura de cocción 1280ºC.\nPor su comportamiento se puede utilizar desde el torno hasta la creación de murales y esculturas.\nIdóneo para la creación de piezas de rakú, ya que soporta muy bien el cambio de temperatura.",
+    "color": "tostado",
+    "temperature": {
+      "min_temperature": 1280,
+      "max_temperature": 1280,
+      "label": "Rango 1280-1280°C"
+    },
+    "isPublic": true
+  }
+]
